@@ -1,13 +1,13 @@
 # **Temas vistos durante el cuatrimestre Enero-Abril en Sistemas Telematicos.**
 
->[[Linux](https://www.netacad.com)]
+>[[Linux](https://www.netacad.com)] [RPLinux](https://github.com/dannixpz/RepositorioLinux)
 > 
 >![LOGO](https://cdn.pixabay.com/photo/2013/07/13/11/43/tux-158547_1280.png)
 >*Empezamos con un curso basico que realizamos en los primeros cuatris, esto solo para recordar alguno de los comandos que se utilizan.*
 >
 
 
->[[HESTIA](https://hestiacp.com/?authuser=0)]
+>[[HESTIA](https://hestiacp.com/?authuser=0)] [RPHestia]()
 > 
 >![LOGO](https://avatars.githubusercontent.com/u/44101440?v=4)
 
