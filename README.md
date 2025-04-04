@@ -35,12 +35,12 @@
 >*Realizamos varios juegos entretenidos, estos para dearrollar nuestras habilidades al practicar los comandos y descifrar cada uno de los niveles que aumentaban su dificultad.* 
 
 
->[**ESP32**],  [Repositorio Codigos](https://www.netacad.com)]
+>[**ESP32**],  [Repositorio Codigos](https://github.com/dannixpz/ESP32Codigos)]
 > 
 >![LOGO](https://apmelectronica.com/wp-content/uploads/2023/10/nodemcu-esp-32s-kit-785305-1024x1024.webp)
 
 
->[[Postman](https://www.postman.com/)],  [Repositorio](https://www.netacad.com)]
+>[[Postman](https://www.postman.com/)]
 > 
 >![LOGO](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*ap0NRizcKwuX5gfzKqEk6Q.png)
 
