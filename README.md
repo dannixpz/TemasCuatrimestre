@@ -28,7 +28,7 @@
 >![LOGO](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*qxZTRH7HBpr0KZwHLhcKOQ.png)
 
 
->[**OverTheWire**], [[BANDIT](https://overthewire.org/wargames/bandit/?authuser=0)]
+>[**OverTheWire**], [[BANDIT](https://overthewire.org/wargames/bandit/?authuser=0)] [RPOverTheWire](https://github.com/dannixpz/RPOverTheWire/tree/main)
 > 
 >![LOGO](https://miro.medium.com/v2/resize:fit:520/1*qO7TM0hqCq9UjfHghAxyiA.jpeg)
 >
