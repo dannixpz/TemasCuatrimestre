@@ -7,7 +7,7 @@
 >
 
 
->[[HESTIA](https://hestiacp.com/?authuser=0)] [RPHestia]()
+>[[HESTIA](https://hestiacp.com/?authuser=0)] [RPHestia](https://github.com/dannixpz/RPHestia)
 > 
 >![LOGO](https://avatars.githubusercontent.com/u/44101440?v=4)
 
