@@ -12,7 +12,7 @@
 >![LOGO](https://avatars.githubusercontent.com/u/44101440?v=4)
 
 
->[Crear Dominio](https://www.youtube.com/playlist?list=PL-aSvPEYgSGij1bg9HvlLZAJahMNGunX7&authuser=0), [Repositorio Crear Dominio](https://github.com/Ale1203-gg/CREACIONDOMINIO.git)]
+>[Crear Dominio](https://www.youtube.com/playlist?list=PL-aSvPEYgSGij1bg9HvlLZAJahMNGunX7&authuser=0), [Repositorio Crear Dominio](https://github.com/dannixpz/RPCreacionDominio/tree/main)]
 > [**Como tambien verificamos le dominio con:** [DNS](https://www.whatsmydns.net/?authuser=0)]
 >![LOGO](https://www.whatsmydns.net/images/logo-og.png)
 >Creamos un dominio el cual lo dimos de alta y lo verificamos.
